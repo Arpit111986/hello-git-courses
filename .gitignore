@@ -1,0 +1,8 @@
+#ignore inout files
+*.in
+
+#ignore output files
+*.out
+
+#ignore Python Compiled
+*.pyc
